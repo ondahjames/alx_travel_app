@@ -154,4 +154,3 @@ Once configured, visit:
 ## 🏁 License
 
 This project is part of the **ALX Program** and follows educational use guidelines.
-You may modify or extend it for personal learning or portfolio purposes.
